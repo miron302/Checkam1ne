@@ -1,4 +1,4 @@
-<img src="https://github.com/miron302/Checkam1ne/blob/3.x/Unknown.jpg" width="64" />
+<img src="https://github.com/miron302/Checkam1ne/blob/3.x/logo.png" width="64" />
 
 # Checkam1ne
 
