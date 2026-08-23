@@ -1,4 +1,4 @@
-** This project is NOT in development right now as I am working on another project, stay tuned for checkam1ne! **
+# This project is NOT in development right now as I am working on another project, stay tuned for checkam1ne! 
 
 
 <img src="https://github.com/miron302/Checkam1ne/blob/3.x/logo.png" width="64" />
